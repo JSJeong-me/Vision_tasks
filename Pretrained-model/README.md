@@ -1,7 +1,8 @@
 ### Pretrained-model
 
 
-![vision-tasks](https://user-images.githubusercontent.com/54794815/137377156-fe6e9cb5-226e-4b02-be45-18c2439d0d64.png)
+![vision_tasks](https://user-images.githubusercontent.com/54794815/141405038-230dec5f-9b50-4c20-8ed1-3ea9d528b192.png)
+
 
 
 ### Imagenet   https://image-net.org/challenges/LSVRC/index.php
